@@ -65,3 +65,6 @@ Waveform Viewer (ModelSim): For signal-level verification of memory behavior.
 
 ✅ Conclusion
 This task deepened my understanding of memory design in digital systems. I learned how synchronous RAM operates with clocked read/write access and how to rigorously test memory operations. Working with ModelSim helped improve my simulation debugging and waveform analysis skills. The synchronous RAM project serves as a solid foundation for future work in processor design and memory-mapped systems, which are explored in upcoming internship tasks.
+
+#output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/53698895-ab6f-47c7-9c65-f3e64082dcad" />
